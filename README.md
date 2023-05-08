@@ -1,7 +1,7 @@
-# REACT FRONTEND PARA EL CONSUMO DE UNA API DE DJANGO
+# REACT FRONTEND PARA EL CONSUMO DE UNA API DE FLASK
 
-Esta aplicación funciona como proyecto Frontend para visualización de datos en el consumo de una API construida en Django. 
-Esta API fue desarrollado por [David Espinosa](github.com/espinosadvlpr) y puede ser visualizado su código y documentación en [este link](https://github.com/espinosadvlpr/django-men-dashboard/). 
+Esta aplicación funciona como proyecto Frontend para visualización de datos en el consumo de una API construida en FLASK. 
+Esta API fue desarrollado por [WILMAR FERNEY HIGUERA PEREZ](https://github.com/Ducke96/) y puede ser visualizado su código y documentación en [este link](https://github.com/Ducke96/Back-end-Matriculas-boyaca.git). 
 
 ## Requisitos para instalación y uso del proyecto
 
@@ -18,13 +18,13 @@ Esto puede ser validado desde una consola haciendo uso de los siguientes comando
     npm --version
     8.19.2
 
-Además de esto, como se menciona en la descripción, este proyecto sirve como visualizador de datos de la API dada en [este link](https://github.com/espinosadvlpr/django-men-dashboard/). Por lo tanto, para visualizar el proyecto correctamente, se debe estar corriendo la API tal como se especifica en su respectiva documentación. 
+Además de esto, como se menciona en la descripción, este proyecto sirve como visualizador de datos de la API dada en [este link](https://github.com/Ducke96/Back-end-Matriculas-boyaca.git). Por lo tanto, para visualizar el proyecto correctamente, se debe estar corriendo la API tal como se especifica en su respectiva documentación. 
 
 ## Clonación del proyecto 
 
 Inicialmente, se debe clonar el actual repositorio con el uso del comando: 
 
-    git clone https://github.com/juanjdev/dashboard-men-react
+    git clone https://github.com/Ducke96/Front-react-Dataframe_matriculados_boyaca.git
 
 
 ## Instalando el proyecto 
@@ -63,4 +63,6 @@ Las peticiones pueden verse del siguiente estilo:
 | GET | localhost:5173/fifth-question |
 | GET | localhost:5173/sixth-question |
 | GET | localhost:5173/seventh-question |
-
+| GET | localhost:5173/eight-question |
+| GET | localhost:5173/ninth-question|
+| GET | localhost:5173/tenth-question |
