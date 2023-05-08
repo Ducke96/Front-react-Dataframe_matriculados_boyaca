@@ -63,6 +63,4 @@ Las peticiones pueden verse del siguiente estilo:
 | GET | localhost:5173/fifth-question |
 | GET | localhost:5173/sixth-question |
 | GET | localhost:5173/seventh-question |
-| GET | localhost:5173/eight-question |
-| GET | localhost:5173/ninth-question|
-| GET | localhost:5173/tenth-question |
+
